@@ -1,6 +1,6 @@
 ### Hi, I´m Beatriz! 👋
 
-I am a computer engineering student at the University of São Paulo
+<h2 style= text-align: center>I am a computer engineering student at the University of São Paulo
 <!--
 **BeatrizAimee/BeatrizAimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 
 Who am I: 
--A passionate student, always searching for learning experiences
-
+<ul>
+<li>A passionate student, always searching for learning experiences</li>
+</ul>
 What am I learning:
--I'm curious about pretty much anything! Currently developing my habilities creating websites
+<ul>
+<li>I'm curious about pretty much anything! Currently developing my habilities creating websites</li>
+</ul>
 
 _
