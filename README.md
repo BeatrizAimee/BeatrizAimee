@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi, I´m Beatriz! 👋
 
+I am a computer engineering student at the University of São Paulo
 <!--
 **BeatrizAimee/BeatrizAimee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Who am I: 
+-A passionate student, always searching for learning experiences
+
+What am I learning:
+-I'm curious about pretty much anything! Currently developing my habilities creating websites
+
+_
