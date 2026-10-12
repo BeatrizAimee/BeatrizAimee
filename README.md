@@ -1,39 +1,28 @@
-# Beatriz Aimee - Computer Engineering Student 👩‍💻
+# Beatriz Aimée
 
-## Hi there! 👋
+I work across integrated circuits, digital hardware and low-level software.
 
-Welcome to my GitHub profile! I am Beatriz Aimee, a dedicated computer engineering student at the University of São Paulo. I am passionate about learning and always on the lookout for new challenges and experiences in the world of technology.
+My main interests are analog and mixed-signal IC design, physical layout, EDA and
+machine-learning-assisted circuit design, as well as RTL/FPGA systems, embedded software
+and computer architecture.
 
-### About Me:
+## Featured work
 
-- 📚 I'm constantly seeking opportunities to expand my knowledge and skills in the field of computer engineering.
-- 💡 I love exploring various areas of technology, and currently, I am honing my abilities in creating engaging websites.
-- 🎯 My goal is to make a positive impact on the world through innovative and creative solutions.
+- [C TDD Light Scheduler](https://github.com/BeatrizAimee/c-tdd-light-scheduler) —
+  C99 module developed through a test-driven workflow with Unity, CMock and saved coverage.
+- [STM32 Bare-Metal LED Matrix](https://github.com/BeatrizAimee/stm32-bare-metal-led-matrix) —
+  firmware, startup code, interrupts and drivers for an STM32-controlled RGB LED matrix.
+- [FPGA Video Controller](https://github.com/BeatrizAimee/Video-controller) —
+  SystemVerilog design work around framebuffer display, SDRAM access and clock-domain crossing.
 
-## 🔭 Current Projects:
+## Tools and languages
 
-- Currently, I am working on creating interactive and user-friendly websites to enhance my web development skills.
+C, C++, Python, VHDL, SystemVerilog, Linux, Cadence Virtuoso, SPICE, Quartus and KiCad.
 
-## 🌱 Learning Journey:
+## Repository notes
 
-I have an insatiable curiosity, and my learning journey is an ongoing adventure. Some of the technologies and subjects I'm currently exploring include:
+This profile intentionally keeps earlier and collaborative projects visible as a technical
+timeline. The featured repositories above are the best starting points; older repositories
+remain available as original learning and development artifacts.
 
-- Web Development (HTML, CSS, JavaScript, and frameworks like React)
-- Data Structures and Algorithms
-- Embedded Systems
-- Computer Architeture
-
-## 👯 Looking to Collaborate:
-
-I'm open to collaborating on exciting projects and ideas in the field of computer engineering and web development. If you have any interesting projects in mind, feel free to reach out!
-
-## 💬 Let's Connect:
-
-- 📫 You can reach me via email at beatrizatfb@usp.br.
-- 💼 Check out my [LinkedIn](https://www.linkedin.com/in/beatriz-aimee/) profile for more details about my professional background.
-
-## 😄 Fun Fact:
-
-Apart from being a tech enthusiast, I am also an artist and love to explore new crafts!
-
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or just want to say hello! 🤗
+[LinkedIn](https://www.linkedin.com/in/beatriz-aimee/)
